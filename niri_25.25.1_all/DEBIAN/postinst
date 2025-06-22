@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Please note this package installed barebone Niri, for full functional system you should install bars, notification program and other usefull thing."
